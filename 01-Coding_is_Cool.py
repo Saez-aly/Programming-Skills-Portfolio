@@ -15,4 +15,4 @@ word3 = "cool"   #third word
 #This code concatenates the variables without spaces, which displays 'Codingiscool'. 
 #However, the output should be 'Coding is cool'
 
-print(word1+" "+word2+" "+word3) # This action adds spaces between the words, which displays 'Coding is Cool'.
+print(word1, word2, word3) # I have researched online that this action is the easiet method to add spaces between the words, which displays 'Coding is Cool'.
