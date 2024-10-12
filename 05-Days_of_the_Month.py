@@ -19,8 +19,8 @@ days_in_month = {
     12: 31  # December has 31 days
 }
 
-# Second; Ask the user for the month number. 
-# We need to convert the input from string to integer because input() returns text.
+# Second; Asks the user for the month number. (1-12)
+# Here we need to change the input from string to integer because input() returns text, hence a string.
 month = int(input("Enter the month number (1-12): "))
 
 # Third: Check if the month is valid (between 1 and 12)
