@@ -25,5 +25,5 @@ while True:
     elif attempts >= 4 and attempts <= 5:  # Between 4 and 5 wrong attempts
         print("Final warning! Only", 5 - attempts, "attempt left.")
     else:  # More than 5 attempts
-        print("Your access has been cancelled.")
+        print("Your access has been denied. We are calling the Dubai Police")
         break  # Exit the loop after too many wrong attempts
