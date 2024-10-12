@@ -9,7 +9,7 @@ boys_list = ["Jake", "Zac", "Ian", "Ron", "Sam", "Dave"] # I created a variable 
 
 # Step 2: Allow user to input a search term.
 search = input("Enter a name to search: ")  # This allows the user to input or search for names instead of predefined value. 
-#In order to increase its functionality and usability, we would want to add a message whether the name is on the list or not. 
+#In order to increase its functionality and usability, we would want to add a message/feedback whether the name is on the list or not. 
 
 # Step 3: Search for the name in the list
 if search in boys_list:  # Check if the input name is in the list
