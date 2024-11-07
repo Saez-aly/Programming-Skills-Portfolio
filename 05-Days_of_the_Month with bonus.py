@@ -45,4 +45,11 @@ else:
     # If the input is not valid (not between 1 and 12), print an error message
     print("Invalid month number. Please enter a number between 1 and 12.")
 
+""" what I have learned: This is the activity I had a hard time with, well because this is where I
+learned how to use dictionary that maps month numbers using 1-12 as
+keys. It is like a dictionary within a dictionary, but it makes data
+management easier (thus harder to code). This way, I can pay attention
+to special cases such as February’s day in leap years. Again, more
+coding using elif, error checking, and input handling."""
+
 
