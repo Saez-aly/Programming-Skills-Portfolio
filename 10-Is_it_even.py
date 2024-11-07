@@ -31,3 +31,6 @@ def main():
 # And lastly, this line checks if the script is run directly.
 if __name__ == "__main__":
     main()  # Call the main function to start the program 
+
+"""What i have learned: Is it even? In this final activity, I learned how to create a program that checks whether the number is even or odd. I have already learned it in class so I just applied it here. So, I used modulus to determine if the number is even, which of course if its divisible by two. 
+By getting user input, passing it to a function, and returning a feedback so the user get their answer. Lastly, is to make sure everything works."""
