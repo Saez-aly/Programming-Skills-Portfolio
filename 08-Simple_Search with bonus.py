@@ -17,3 +17,11 @@ if search in boys_list:  # Check if the input name is in the list
 else:
     print(search + " is not on the list.")  # If not found, it displays an error message.
 
+""" what I have learned: This is the most fun for me because I imagined it as like an online
+invitation and it says “you’re not on the list” hence not invited. So, in
+writing this code I learn to create this simple search program that
+searches for specific string, those strings are names of boys within a list.
+But then to make it realistic and additional functionality, I incorporated
+user input; allowing it to accept any name rather than predefined values.
+To check if the input name exist on the list, I used conditional
+statements where it displays and gives a feedback for certain conditions."""
