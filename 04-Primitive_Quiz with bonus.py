@@ -36,3 +36,9 @@ total_questions = len(primitive_quiz)                          # Total number of
 print("\nQuiz completed! You got " + str(correct_answers) + " out of " + str(total_questions) + " correct.")
 
 """The quiz felt discouraging. so i added a final touch where the user can see their scores"""
+
+""" What I have learned: Since already have an understanding with the code flow, finished solo
+learn certificate and also our in-class activities—I already knew what to
+do for this activity. For this quiz I used while loops and else if
+statements, for additonal functionality I chose to add message/feedback
+that displays the user’s score at the end."""
