@@ -4,12 +4,8 @@
 
 
 
-Exercise 4: Primitive quiz with Additional requirement
-Since already have an understanding with the code flow, finished solo
-learn certificate and also our in-class activities—I already knew what to
-do for this activity. For this quiz I used while loops and else if
-statements, for additonal functionality I chose to add message/feedback
-that displays the user’s score at the end.
+
+
 
 Exercise 5: Days of the month with Additional requirement
 This is the activity I had a hard time with, well because this is where I
