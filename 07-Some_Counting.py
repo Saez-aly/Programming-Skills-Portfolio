@@ -27,3 +27,11 @@ for i in range(50, 9, -2):  # The range starts at 50, ends at 10, and decreases 
 print("\nCounting up from 100 to 200 in steps of 5:")
 for i in range(100, 201, 5):  # The range starts at 100, ends at 200 (inclusive), and increases by 5 each time
     print(i)  # This prints each number as it counts up by 5 from 100 to 200
+
+""" What I have learned: In this exercise I learn how to use loops in
+various ways such as applying range function to define the starting and
+ending points, along with increments whether its one or two. Practicing
+both upwards and downwards, as well as specific slicing, stops or
+interval; different types of counting as we call it—in a single code
+really stretched my mind and my grasp about looping and number
+manipulation"""
