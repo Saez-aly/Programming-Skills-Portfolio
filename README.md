@@ -1,17 +1,8 @@
 
 
-Exercise 2: Simple Sums
-For the most part in this exercise, it helped me in practicing with my
-way of using command line. A straightforward, basic coding exercise. 
 
-Exercise 3:Biography with Additional requirement
-The key takeaway from this activity is the control flow, it is the
-first>second>third step. By being mindful of my code’s flow, I have
-achieved what I intended to do which was to build a dictionary>make
-sure the age is valid by converting string to integer> store the user info>
-print the user info. Also, by completing the additional task, I discovered
-the control flow which really prevented me from being stuck with the
-wrong way of coding.
+
+
 
 Exercise 4: Primitive quiz with Additional requirement
 Since already have an understanding with the code flow, finished solo
