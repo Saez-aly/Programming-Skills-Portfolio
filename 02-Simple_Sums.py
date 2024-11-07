@@ -13,3 +13,6 @@ num1=8 #first int variable
 num2=10 #second int variable
 result=(num1+num2) #result stores the sum of the two numbers.
 print(result) #displays the sum
+
+"""What I have learned: For the most part in this exercise, it helped me in practicing with my
+way of using command line. A straightforward, basic coding exercise. """
