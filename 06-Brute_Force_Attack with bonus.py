@@ -27,3 +27,11 @@ while True:
     else:  # More than 5 attempts
         print("Your access has been denied. We are calling the Dubai Police")
         break  # Exit the loop after too many wrong attempts
+
+""" What I have learned: Brute force attack with Additional requirement
+We did one in class similar to this, it’s parking fine. So, for this activity
+I got practice using if-else statements because I used it to handle the
+situation where its giving warning after a certain number of attempts. I
+think I have gotten better at using conditions because this code can;
+grant access is the input is correct, has only 5 attemps, and calls the
+authority for 5th wrong attempt."""
